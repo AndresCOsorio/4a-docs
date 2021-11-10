@@ -34,15 +34,25 @@ User Story 1.1:
  “Yo como cliente de CICLAX2000, quiero consultar de manera sencilla todos los productos que hay disponibles, sus especificaciones, imágenes, precio y disponibilidad.”
 
 Task 1.1.1: Construir un servicio web para consultar el catalogo de productos disponibles. [backend]
+
 Task 1.1.2: Construir un servicio web para consultar las especificaciones, imágenes, precio y disponibilidad de cada producto. [backend]
+
 Task 1.1.3: Diseñar los mockups correspondientes a las UIs de: catalogo de productos actual, y de las características individuales de cada producto(especificaciones, imágenes, precio y disponibilidad). [frontend]
+
 Task 1.1.4: Construir una UI para mostrar el catalogo de productos actual. [frontend]
+
 Task 1.1.5: Construir una UI para mostrar las características individuales de cada producto(especificaciones, imágenes, precio y disponibilidad). [frontend]
+
 Task 1.1.6: Diseñar casos de prueba tanto para los servicios web de consulta de catalogo de productos disponibles; como para las especificaciones, imágenes, precio y disponibilidad de cada producto. [QA]
+
 Task 1.1.7: Llevar a cabo los casos de prueba para los servicios web de consulta de catalogo de productos disponibles; como para las especificaciones, imágenes, precio y disponibilidad de cada producto. [QA]
+
 Task 1.1.8: Diseñar casos de prueba tanto para la utilización de las UI relacionadas con consulta de el catalogo de productos actual; como para mostrar las características individuales de cada producto(especificaciones, imágenes, precio y disponibilidad). [QA]
+
 Task 1.1.9: Llevar a cabo casos de prueba para las UI relacionadas con consulta de el catalogo de productos actual; como para mostrar las características individuales de cada producto(especificaciones, imágenes, precio y disponibilidad). [QA]
+
 Task 1.1.10: Desplegar los servicios web de consulta de el catalogo de productos disponibles y  las especificaciones, imágenes, precio y disponibilidad de cada producto, en el backend de producción usando Heroku. [leader]
+
 Task 1.1.11: Desplegar las UI relacionadas con consulta de el catalogo de productos disponibles y  las especificaciones, imágenes, precio y disponibilidad de cada producto, en el frontend de producción usando Heroku. [leader]
 
 
