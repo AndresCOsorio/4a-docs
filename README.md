@@ -1,6 +1,7 @@
 # 4a-docs
 
 PROYECTO e-Comerce Bicicletas
+-----------------------------
 
 Especificación del cliente:
 “Deseamos que el sistema permita que nuestros usuarios accedan a estos servicios principales: 
@@ -19,6 +20,8 @@ Especificación del cliente:
 
 7.Administrar formulario de productos, que le permita a los administradores agregar, elimniar o actualizar el catalogo de productos.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 User Story 1:
  “Yo como cliente, quiero consultar de manera sencilla todos los productos que hay disponibles, sus especificaciones, imágenes, precio y disponibilidad.”
