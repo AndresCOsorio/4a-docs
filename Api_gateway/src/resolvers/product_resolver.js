@@ -24,11 +24,11 @@ const productResolver = {
                 return await dataSources.productAPI.updateProductById(idProduct, product)
             } else return null;
         },
-        updateAmountProduct: async(_, { user, product }, { dataSources, userIdToken }) => {
-            if (user == userIdToken) {
+         updateAmountProduct: async(_, { user, product }, { dataSources, userIdToken }) => {
+             if (user == userIdToken) {
                 return await dataSources.productAPI.updateAmountProduct(product)
-            } else return null;
-        },
+             } else return null;
+         },
         deleteProduct: async(_, { user, id }, { dataSources, userIdToken }) => {
             if (user == userIdToken) {
                 dataSources.productAPI.deleteProduct(id)
